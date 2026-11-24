@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MarketingIntelligence.API/MarketingIntelligence.API.csproj" />
+  <Project Path="MarketingIntelligence.Tests/MarketingIntelligence.Tests.csproj" />
+</Solution>

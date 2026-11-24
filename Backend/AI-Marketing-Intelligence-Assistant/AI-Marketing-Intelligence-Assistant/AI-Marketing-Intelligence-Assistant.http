@@ -1,0 +1,6 @@
+@AI_Marketing_Intelligence_Assistant_HostAddress = http://localhost:5015
+
+GET {{AI_Marketing_Intelligence_Assistant_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
